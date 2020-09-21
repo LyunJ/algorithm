@@ -18,5 +18,3 @@ for i in reversed(S):
     rev_res = rev_res + 1 if i == 1 else rev_res - 1
     R[reverse_index] = rev_res
     reverse_index -= 1
-
-for i in range(s_length):
